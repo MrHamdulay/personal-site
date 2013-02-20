@@ -1,0 +1,40 @@
+* {
+  font-family: Georgia;
+  font-size: 18px;
+  line-height: 30px;
+}
+h1 {
+  font-size: 25px;
+  line-height: 30px;
+}
+h2 {
+  font-size: 20px;
+  line-height: 24px;
+}
+h1, h2 {
+  color: #000000;
+  font-family: Georgia;
+}
+#body {
+  align: center;
+  position: absolute;
+  left: 25%;
+  width: 50%;
+}
+p {
+  color: #3F3F3F;
+}
+
+#nav ul {
+  display: inline;
+  list-style: none;
+  padding-left: 0;
+}
+#nav ul li {
+  display: inline;
+  list-style: none;
+  padding: 5px;
+}
+#nav a {
+  text-decoration: none;
+}
